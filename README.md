@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://ambitious-tree-0f11a2310.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/nrYk-Tzrzew
 
 ## Azure technologies used for Project
 
